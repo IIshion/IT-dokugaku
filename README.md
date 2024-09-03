@@ -1,6 +1,6 @@
-プログラミング独学中
-プロセス　
-  -- Html,CSS,Javascript √
-  -- Vue / React
-  -- Java
-  -- Oracle
+プログラミング独学中<br>
+プロセス　<br>
+  -- Html,CSS,Javascript √<br>
+  -- Vue / React<br>
+  -- Java<br>
+  -- Oracle<br>
