@@ -1,1 +1,6 @@
-放点自学的东西在这
+プログラミング独学中
+プロセス　
+  -- Html,CSS,Javascript √
+  -- Vue / React
+  -- Java
+  -- Oracle
